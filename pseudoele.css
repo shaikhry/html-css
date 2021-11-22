@@ -1,0 +1,65 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.nav{
+    background-color: deeppink;
+}
+
+.nav ul {
+  display: flex;
+  list-style: none;
+}
+.nav ul a {
+text-decoration: none;
+padding: 0px 30px;
+color: aqua;
+ font-size: 50px;
+ text-align: center;
+ background-color: blue;
+margin: 0px 20px;
+}
+.nav.ul a:visited {
+    color: crimson;
+
+}.nav ul a:hover {
+color: darkorange;
+background-color: darkred;
+border-radius: 10px;
+}
+.nav ul a:active {
+color: deeppink;
+background-color: forestgreen;
+}
+input {
+width: 200px;
+height: 50px;
+background-color: royalblue;
+border-radius: 10px;
+}
+button {
+width: 100px;
+height: 40px;
+color: hotpink;
+border-radius: 10px;
+background-color: darkslategray;
+}
+button:hover {
+background-color: lawngreen;
+}
+input:hover {
+background-color: turquoise;
+color: yellow;
+}
+input:focus {
+width: 300px;
+height: 100px;
+}
+button:focus {
+width: 150px;
+height: 100px;
+background-color: rebeccapurple;
+
+}
+

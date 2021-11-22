@@ -1,0 +1,150 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  border-bottom: yellow;
+}
+body {
+  background-size: cover;
+}
+
+nav {
+  background:black;
+  height: 80px;
+  width: 100%;
+  
+}
+.logo {
+  color: white;
+  font-size: 80px;
+  line-height: 80px;
+  padding: 0 100px;
+  margin: top 30px;
+
+  
+  
+}
+nav ul {
+  float: left;
+  margin-right: 20px;
+  font-size: 80px;
+  float: right;
+  
+}
+
+nav ul li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+
+nav ul li a {
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+nav label {
+  font-size: 80px;
+}
+.card1 {
+  height: 300px;
+  width: 300px;
+  
+  float: left;
+  margin-left: 30px;
+  
+
+  
+  
+}
+.card1 img{
+height: 300px;
+width: 300px;
+margin-top: 10px;
+
+}
+
+
+p {
+   font-size: 20px;
+   color: yellow;
+
+
+
+
+}
+.card2 {
+    height: 300px;
+    width: 300px;
+    background-color: azure;
+    float: left;
+    margin-left: 30px;
+  
+    
+    
+  }
+  .card2 img{
+  height: 300px;
+  width: 300px;
+  margin-top: 0px;
+  
+  
+  }
+
+  .card3 {
+    height: 300px;
+    width: 300px;
+    background-color: azure;
+    float: left;
+    margin-left: 30px;
+  
+    
+    
+  }
+  .card3 img{
+  height: 300px;
+  width: 300px;
+  margin-top: 0px;
+  
+  
+  }
+
+  .card4 {
+    height: 300px;
+    width: 300px;
+    
+    float: left;
+    
+  
+    
+    
+  }
+  .card4 img{
+  height: 300px;
+  width: 300px;
+  margin-top: 0px;
+  margin-left: 20px;
+  
+  
+  }
+  
+
+  .card5 {
+    height: 300px;
+    width: 300px;
+    
+    float: left;
+    
+  
+    
+    
+  }
+  .card5 img{
+  height: 300px;
+  width: 300px;
+  
+  margin-left: 500px;
+  
+  }

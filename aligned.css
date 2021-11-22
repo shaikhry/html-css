@@ -1,0 +1,43 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+width: auto;
+height: 100px;
+background-color: cadetblue;
+}
+.images {
+width: auto;
+background-color: darkblue;
+height: 500px;
+}
+.cards{
+width: auto;
+height: 700px;
+background-color: darkgoldenrod;
+display: flex;
+justify-content: center;
+align-content: center;
+flex-wrap: wrap;
+}
+.crd{
+width: 250px;
+height: 300px;
+background-color: darkgreen;
+margin: 10px;
+}
+.para{
+height: 400px;
+width: auto;
+background-color: deepskyblue;
+}
+.footer{
+height: 300px;
+width: auto;
+background-color: gold;
+border-bottom: 50px solid crimson;
+
+}

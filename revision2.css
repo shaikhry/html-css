@@ -1,0 +1,50 @@
+.hello{
+color: cyan;
+font-size: 100px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+text-align: center;
+text-decoration: darkmagenta;
+text-transform: capitalize;
+text-shadow: 2px 5 px 10px darkorange;
+text-decoration-line:line-through;
+}
+
+.para{text-indent: 100px;
+    line-height: 50px;
+    letter-spacing: 3px;
+
+}
+
+.box{
+background-color: darkorange;
+height: 100px;
+width: 200px;
+padding: 20px 20px 50px 50px;
+box-sizing: content-box;
+font-size: 50px;
+border-style: dotted;
+border-width: 10px;
+ border-top-left-radius: 20px;
+ border-bottom-right-radius: 20px;
+ border-top-color: deeppink;
+ border-right-color: gold;
+ border-bottom-color: green;
+ box-shadow: 10px 10px 7px red,-10px -10px black,inset 10px 10px 5px purple;
+background-image: url(./src/nasa5inside.jpg);
+background-repeat: no-repeat;
+background-repeat: repeat-x;
+background-repeat: repeat-y;
+background-attachment: scroll;
+background-size: cover;
+
+}
+
+/* .para{
+display: none;     will hide the element and remove size
+visibility: hidden;      it will hide elemnt but wont remove size
+display: inline;
+display: block;          will move the contenet on next line */
+displ
+
+}

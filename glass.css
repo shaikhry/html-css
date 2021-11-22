@@ -1,0 +1,36 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+width: 100vw;
+height: 100vw;
+background: #080710;
+}
+
+#container{
+width: 200px;
+height: 250px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+#circle_1,#circle_2{
+
+width: 100px;
+height: 100px;
+border-radius: 50%;
+position:absolute;
+}
+
+#circle_1{
+
+background: linear-gradient(#bf23f6);
+top: -45px;
+left: -40px;
+
+}
